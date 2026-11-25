@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T02:20:03Z",
+  "updated": "2026-11-25T17:22:18Z",
   "packages": [
     {
       "id": "return-nivea",
@@ -42,17 +42,6 @@
       "status": "delivered",
       "statusText": "Delivered Nov 20, reception",
       "location": "Reception",
-      "eta": "",
-      "url": ""
-    },
-    {
-      "id": "amz-lazysusan",
-      "title": "Lazy Susan",
-      "carrier": "Amazon",
-      "tracking": "",
-      "status": "delivered",
-      "statusText": "Delivered Nov 17, mail room",
-      "location": "Mail room",
       "eta": "",
       "url": ""
     },
