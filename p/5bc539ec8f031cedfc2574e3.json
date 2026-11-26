@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-25T17:22:18Z",
+  "updated": "2026-11-26T17:31:17Z",
   "packages": [
+    {
+      "id": "wayfair-bookcase",
+      "title": "Gift bookcase",
+      "carrier": "Wayfair",
+      "tracking": "",
+      "status": "in_transit",
+      "statusText": "No tracking yet; estimated by Sun Nov 29",
+      "location": "",
+      "eta": "2026-11-29",
+      "url": ""
+    },
     {
       "id": "return-nivea",
       "title": "Nivea Men deodorant x2 (return)",
