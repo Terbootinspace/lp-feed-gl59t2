@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T17:31:17Z",
+  "updated": "2026-11-27T17:19:31Z",
   "packages": [
     {
       "id": "wayfair-bookcase",
@@ -44,17 +44,6 @@
       "location": "San Francisco, CA",
       "eta": "",
       "url": "https://www.ups.com/track?loc=en_US&tracknum=1Z0135F20394590599&requester=ST/"
-    },
-    {
-      "id": "amz-basket",
-      "title": "Goodpick Wicker Basket + plant saucers",
-      "carrier": "Amazon",
-      "tracking": "TBA336617842330",
-      "status": "delivered",
-      "statusText": "Delivered Nov 20, reception",
-      "location": "Reception",
-      "eta": "",
-      "url": ""
     },
     {
       "id": "amz-plantspray",
